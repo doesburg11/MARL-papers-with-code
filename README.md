@@ -2,11 +2,7 @@
 
 A curated collection of **Multi-Agent Reinforcement Learning (MARL)** papers that include open-source code.
 
-## 🧠 Categories
-- **Foundations** – Core concepts and early papers
-- **Environments** – Benchmarks and simulation suites
-- **Cooperation & Competition** – Social learning and emergent coordination
-- **Open-endedness & Evolution** – Lifelong and meta-learning approaches
-
-## 🔗 Format
-Each entry follows:
+- Multi-agent Reinforcement Learning in Sequential Social Dilemmas
+[[paper]](https://arxiv.org/abs/1702.03037)[[1]](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
+- SocialJax: An Evaluation Suite for Multi-agent Reinforcement Learning in Sequential Social Dilemmas
+[[paper]](https://arxiv.org/abs/2503.14576)[[1]]
